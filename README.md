@@ -15,4 +15,4 @@ react-native-linear-gradient
 
 ## 🆙 Demo
 
-<img src="https://user-images.githubusercontent.com/30902898/137135870-d0ab631e-f494-4025-85b2-eb2e92eb145e.gif" width="250px">
+<img src="https://user-images.githubusercontent.com/30902898/140661069-083acc59-96be-4e41-88c1-94f8aecfebfc.png" width="250px">
